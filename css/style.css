@@ -2116,6 +2116,8 @@ ol {
 .shop__cart__table tbody tr .cart__product__item img {
 	float: left;
 	margin-right: 25px;
+	max-width: 90px;
+	max-height: 90px;
 }
 
 .shop__cart__table tbody tr .cart__product__item .cart__product__item__title {
